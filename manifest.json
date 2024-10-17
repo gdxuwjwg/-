@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "pack.description",
+        "name": "pack.name",
+        "uuid": "915a03a5-7e4b-4da9-87f4-85b7e70c7f0c",
+        "version": [
+            0,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            13,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Created using CoreCoder",
+            "type": "resources",
+            "uuid": "dff6a28a-045a-4421-9350-50384410d0f5",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}
