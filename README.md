@@ -7,7 +7,7 @@ mc基岩版资源包开源
 1.在国际mc基岩版的市场右上角搜索【Potato】
 2.找到名为“毒马铃薯插件”的免费市场包，并点击进入(如图)![image](https://github.com/user-attachments/assets/fee3c90c-9cc7-44c5-8a3e-7bb5433a9a15)
 3.点击【免费】即可购买
-汉化包下载：?,下载后再导入mc即可
+汉化包下载：在Releases下载,下载后再导入mc即可
 官方市场包下载：购买后点击下载即可下载
 注:此项目需要Minecraft基岩版游戏
 不要通过绿色的Code→Download Zip 下载，而是通过Releases下载
