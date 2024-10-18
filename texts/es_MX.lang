@@ -1,0 +1,88 @@
+## Jigarbov Productions Inc. made this pack, langfile, and the included map.
+## Copyright Jigarbov Productions Inc. 2024
+
+pack.name=Complemento Papa venenosa	### 'Poisonous Potato RP' is the proper name of the Add-On and should be in all capitals.
+pack.description=Todos los recursos que necesitas para el complemento Papa venenosa, de Jigarbov Productions	### Information to the player about the pack.
+
+jig_poip:guide_exit=Cerrar	### Button name.
+jig_poip:guide.name=Guía de Papa venenosa	### Item name. Note that "Poisonous Potato" is a proper noun.
+item.jig_poip:guide_book=Guía de Papa venenosa	### Item name. Note that "Poisonous Potato" is a proper noun.
+jig_poip:tooltip.modify=Modificar	### Button name.
+item.jig_common:wrench=Llave de tuercas	### Button name.
+jig_poip:exploding_nub=Protuberancias de papa venenosa explosiva lanzadas	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:normal_nub=Protuberancias de papa venenosa lanzadas	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:exploding_poip=Papas venenosas explosivas lanzadas	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:balloon_pop=Globos de papa venenosa explotados	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:furniture=Muebles de papa venenosa generados	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:furniture_mod=Muebles de papa venenosa modificados con una llave de tuercas	### Information to the player. Note that "Poisonous Potato" is a proper noun. 
+jig_poip:jig_computer.addon_stats=Estadísticas de papa venenosa	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:credits.for.computers=Complemento Papa venenosa, de Jigarbov Productions.	### Information to the player. Note that "Poisonous Potato Add-On" and "Jigarbov Productions" are proper nouns. 
+
+jig_poip:installed_msg=Se instaló el complemento §l§aPapa venenosa§r.	###  Information to the player. Note that "Poisonous Potato Add-On" is a proper noun. Note the color codes around "Poisonous Potato".
+jig_poip:info_msg.b=Recibiste un libro con algunas instrucciones básicas. Más información: §cyoutube.com/jigarbov	### Information to the player. Note that "youtube.com/jigarbov" is a URL & the color code before the URL.
+
+jig_poip:info.part_01=Complemento §l§aPapa venenosa§r%1§2, de Jigarbov Productions	### Information to the player. Note that "Poisonous Potato Add-On" and "Jigarbov Productions" are proper nouns. Note the color & formatting codes around "Poisonous Potato".
+jig_poip:info.part_02=§l¿En qué consiste el complemento Papa venenosa?§r§7%1¡Papa venenosa es un complemento que le da a la papa venenosa el amor que se merece!	### Information to the player. Note that "Poisonous Potato" and "Add-On" are proper nouns. Note the color codes around "What is the Poisonous Potato Add-On?".
+jig_poip:info.part_03=§l¿Qué incluye?§r§7%1Muebles, armas, comida, bloques y un sinfín de recetas de papa venenosa. Cultiva una, colócala en una mesa de trabajo y ponte a fabricar.	### Information to the player. Note the color & formatting codes around "What's in it?".
+jig_poip:info.part_04=§l¡Pero si ni siquiera sé cómo conseguir una papa venenosa!§r§7%1Sigue los siguientes pasos. Usa un azadón en la tierra, asegúrate de que haya agua cerca y planta una papa. ¡Cuando haya crecido, podrás cosecharla y tendrás una cierta probabilidad de conseguir una papa venenosa!	### Information to the player. Note the color & formatting codes around "I don't even know how to get a poisonous potato though!".
+jig_poip:info.part_05=§l¿Por lo menos podrían darme una receta de fabricación?§r§7%1¡Claro! ¿Qué tal una papa venenosa asada? Mete una papa venenosa en el horno y mira cómo se cocina. ¡ÑAM!	### Information to the player. Note the color & formatting codes around "Can you at least give me one crafting recipe?".
+jig_poip:info.part_06=§l¡Eso no es una receta de fabricación!§r§7%1Tienes razón. Ten esta receta de §rbloque de papa venenosa§7 para almacenar tus papas venenosas… ¡o construir una casa!%1%1§a1. papa venenosa §r%1[§a1§r][§a1§r][§a1§r]%1[§a1§r][§a1§r][§a1§r]%1[§a1§r][§a1§r][§a1§r]	### Information to the player. Note the color & formatting codes around "That isn't a crafting recipe!", around "poisonous potato block", after "build a house with it!", and after the proper noun form of "Poisonous Potato".
+jig_poip:info.part_07=§7O… para adornar una espada de madera con una papa venenosa y crear la §respada de madera potenciada por una papa venenosa§7 con los siguientes objetos:%1%1§a1. Papa venenosa §r%1§62. Espada de madera §r%1[ ][§a1§r]%1[§62§r][ ]%1§7¡Estas bellezas son el doble de poderosas que sus equivalentes no venenosos e inyectan un veneno letal a sus objetivos!	### Information to the player. Note the color & formatting codes before "Or... adorn", around "poisonous potato powered wooden sword", after "with the following:", after "Poisonous Potato", after "Wooden Sword", & before "These beauties".
+jig_poip:info.part_08=§7¿Cómo te protegerás de los demás jugadores que porten armas de veneno? ¡Ponte al menos una pieza de §rarmadura de papa venenosa§7! %1%1§a1. Papa venenosa §r%1[§a1§r][§a1§r][§a1§r]%1[§a1§r][ ][§a1§r]%1§7¿Qué pasaría si te pones un conjunto completo?	### Information to the player. Note the color & formatting codes before "How will", around "poisonous potato armor", after "do the trick!", after "Poisonous Potato", and before "Wonder what".
+jig_poip:info.part_09=§7Está bien, una más: ¡una §rvagoneta potenciada por una papa venenosa§7! Maneja a máxima velocidad por toda tu base. %1%1§a1. Papa venenosa §r%1§72. Vagoneta §r%1[ ][§a1§r][ ]%1[§a1§r][§72§r][§a1§r]%1[§a1§r][ ][§a1§r]	### Information to the player. Note the color & formatting codes before "Ok, one more", around "poisonous potato powered minecart", after "super fast speed", after "Poisonous Potato", & after "Minecart". Note that "bad boy" is a colloquial phrase meaning a special item.
+jig_poip:info.part_10=§l¡Hay muchas más recetas por descubrir!§r	### Information to the player. Note the color & formatting codes around "There are many more recipes to discover!".
+jig_poip:info.part_11=El complemento §apapa venenosa§r fue creado por §2Jigarbov Productions.§r%1%1¡Etiquétanos en fotos en las que disfrutes de tus papas venenosas! O descubre más información en: §2youtube.com/jigarbov§r %1%1Creado por Jigarbov / Jujustyle / Bluehush / Feylina / HelenAngel	### Information to the player. Note that "Poisonous Potato Add-On", "Jigarbov Productions", "Jigarbov", "Jujustyle", "Bluehush", "Feylina", & "HelenAngel" are proper nouns. Note the "@" symbol before "us with pics" & that "youtube.com/jigarbov" is a URL. Note the color & formatting codes around "Poisonous Potato", around "Jigarbov Productions", around the URL youtube.com/jigarbov", & before "Made by:".
+
+action.hint.exit.jig_poip:poisonous_potato_minecart=Presiona agacharse o saltar para desmontar.	### Instructions given to the player.
+action.hint.exit.jig_poip:poip_chair=Presiona agacharse o saltar para desmontar.	### Instructions given to the player.
+action.hint.exit.jig_poip:poip_couch=Presiona agacharse o saltar para desmontar.	### Instructions given to the player.
+action.hint.exit.jig_poip:poip_balloon=Presiona agacharse o saltar para desmontar.	### Instructions given to the player.
+action.hint.exit.console.jig_poip:poisonous_potato_minecart=Presiona :_input_key.sneak: para desmontar	### Instructions given to the player. Note that ':_input_key.sneak:' is code & should not be translated.
+action.hint.exit.console.jig_poip:poip_chair=Presiona :_input_key.sneak: para desmontar	### Instructions given to the player. Note that ':_input_key.sneak:' is code & should not be translated.
+action.hint.exit.console.jig_poip:poip_couch=Presiona :_input_key.sneak: para desmontar	### Instructions given to the player. Note that ':_input_key.sneak:' is code & should not be translated.
+action.hint.exit.console.jig_poip:poip_balloon=Presiona :_input_key.sneak: para desmontar	### Instructions given to the player. Note that ':_input_key.sneak:' is code & should not be translated.
+action.hint.exit.scheme.jig_poip:poisonous_potato_minecart=Presiona agacharse o saltar para desmontar.	### Instructions given to the player.
+action.hint.exit.scheme.jig_poip:poip_chair=Presiona agacharse o saltar para desmontar.	### Instructions given to the player.
+action.hint.exit.scheme.jig_poip:poip_couch=Presiona agacharse o saltar para desmontar.	### Instructions given to the player.
+action.hint.exit.scheme.jig_poip:poip_balloon=Presiona agacharse o saltar para desmontar.	### Instructions given to the player.
+
+item.spawn_egg.entity.jig_poip:poip_chair.name=Taburete de papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.spawn_egg.entity.jig_poip:poip_couch.name=Sofá de papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.spawn_egg.entity.jig_poip:poip_balloon.name=Globo de papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_chair_item=Silla de papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_couch_item=Sofá de papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_balloon_item=Globo de papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_minecart_item=Vagoneta potenciada por una papa venenosa	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poip_chair.name=Silla de papa venenosa	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poip_couch.name=Sofá de papa venenosa	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poip_balloon.name=Globo de papa venenosa	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poip_minecart.name=Vagoneta potenciada por una papa venenosa	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poisonous_potato_explo.name=Papa venenosa explosiva	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:nub_explo_ammo.name=Protuberancias de papa venenosa explosiva	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:nub_ammo.name=Protuberancias de papa venenosa	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_block.name=Bloque de papa venenosa	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_carpet.name=Alfombra de papa venenosa	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_lamp.name=Lámpara de papa venenosa	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_table.name=Mesa de papa venenosa	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_hanging.name=Bloque de retrato de papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_helmet=Casco de papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_armor=Armadura de papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_legs=Mallas de papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_boots=Botas de papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_explo=Papa venenosa explosiva	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_hanging_item=Retrato de papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:nub_ammo=Protuberancias de papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:nub_explo_ammo=Protuberancias de papa venenosa explosiva	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_stew=Estofado de papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_baked=Papa venenosa asada	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_stew.name=Estofado de papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_baked.name=Papa venenosa asada	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_wooden_sword=Espada de madera potenciada por una papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_stone_sword=Espada de piedra potenciada por una papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_golden_sword=Espada dorada potenciada por una papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_iron_sword=Espada de hierro potenciada por una papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_diamond_sword=Espada de diamante potenciada por una papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_netherite_sword=Espada de inframundita potenciada por una papa venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_mob_small_item=Papa mutante	### Item name. Note that this is a custom word for a mutated potato.
+entity.jig_poip:mutato.name=Papa mutante	### Item name. Note that this is a custom word for a mutated potato.
+entity.jig_poip:poisonous_potato_minecart.name=Vagoneta potenciada por una papa venenosa	### Item name. Note that all words begin with a capital letter.

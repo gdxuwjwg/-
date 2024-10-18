@@ -1,0 +1,88 @@
+## Jigarbov Productions Inc.制作了这个包、langfile和包含的地图。
+## 版权所有 Jigarbov Productions Inc.2024
+
+pack.name=毒马铃薯插件	###“毒马铃薯RP”是附加组件的正确名称，应该在所有大写字母中。
+pack.description=[国内首发]毒马铃薯汉化市场包(已汉化），原作者：Jigarbow Productions。	###向玩家提供有关包的信息。
+
+jig_poip:guide_exit=关闭	### 按钮名称。
+jig_poip:guide.name=毒马铃薯插件介绍	### 项目名称。请注意，“毒马铃薯”是一个专有名词。
+item.jig_poip:guide_book=毒马铃薯插件介绍	### 项目名称。请注意，“毒马铃薯”是一个专有名词。
+jig_poip:tooltip.modify=修改	### 按钮名称。
+item.jig_common:wrench=扳手	### 按钮名称。
+jig_poip:exploding_nub=毒马铃薯炸弹	### 给玩家的信息。请注意，“毒马铃薯”是一个专有名词。请注意，每个单词都以大写字母开头。
+jig_poip:normal_nub=毒马铃薯块	### 给玩家的信息。请注意，“毒马铃薯”是一个专有名词。请注意，每个单词都以大写字母开头。
+jig_poip:exploding_poip=毒马铃薯炸弹爆炸	 ### 给玩家的信息。请注意，“毒马铃薯”是一个专有名词。请注意，每个单词都以大写字母开头。
+jig_poip:balloon_pop=有毒的马铃薯气球弹出	### 给玩家的信息。请注意，“毒马铃薯”是一个专有名词。请注意，每个单词都以大写字母开头。
+jig_poip:furniture=毒马铃薯家具  	### 给玩家的信息。请注意，“毒马铃薯”是一个专有名词。请注意，每个单词都以大写字母开头。
+jig_poip:furniture_mod=用扳手改装的毒马铃薯家具	### 给玩家的信息。请注意，“毒马铃薯”是一个专有名词。
+jig_poip:jig_computer.addon_stats=有毒马铃薯统计	### 给玩家的信息。请注意，“毒马铃薯”是一个专有名词。请注意，每个单词都以大写字母开头。
+jig_poip:credits.for.computers=Jigarbov Productions的毒马铃薯插件。	### 给玩家的信息。请注意，“Poisonous Potato Add-On”和“Jigarbov Productions”是专有名词。
+
+jig_poip:installed_msg=§l§a毒马铃薯§r插件已安装。	### 给玩家的信息。请注意，“Poisonous Potato Add-On”是一个专有名词。注意“毒马铃薯”周围的颜色代码。
+jig_poip:info_msg.b=你得到了一本包含一些基本说明的书。了解更多：§cyoutube.com/jigarbov	### 给玩家的信息。请注意，“youtube.com/jigarbov”是URL和URL之前的颜色代码。
+
+jig_poip:info.part_01=§l§aPoisonous Potato§r%1§2Add-On By Jigarbov Productions	### 给玩家的信息。请注意，“Poisonous Potato Add-On”和“Jigarbov Productions”是专有名词。注意“毒马铃薯”周围的颜色和格式代码。
+jig_poip:info.part_02=§l什么是毒马铃薯插件？§r§7%1毒马铃薯是一个附加组件，给予毒马铃薯应有的爱和尊重！	### 给玩家的信息。请注意，“毒马铃薯”和“附加”是专有名词。注意“什么是毒马铃薯插件？”周围的颜色代码。
+jig_poip:info.part_03=§l里面有什么？§r§7%1家具、武器、食物、积木、毒马铃薯食谱。种植一个，然后把它放在制作台上，开始制作。	### 给玩家的信息。注意“里面有什么？”周围的颜色和格式代码。
+jig_poip:info.part_04=§l如何得到一个毒马铃薯？§r§7%1在一些泥土上使用锄头。然后用水灌溉农田。种一个马铃薯。当它成熟时，你可以获得它，有机率获得毒马铃薯！	### 给玩家的信息。注意“我甚至不知道如何获得有毒的马铃薯！”周围的颜色和格式代码。
+jig_poip:info.part_05=§l你能至少给我一个制作食谱吗？§r§7%1当然！烤毒马铃薯怎么样？只需将一个毒的马铃薯扔进炉子里，等它煮熟。	### 给玩家的信息。注意“你能至少给我一个制作食谱吗？”周围的颜色和格式代码。
+jig_poip:info.part_06=§l这不是一个手工食谱！§r§7%1你是对的。这是一个§r毒马铃薯块§7食谱来储存你的有毒马铃薯......或者用它建房子！%1%1§a1。毒马铃薯§r%1[§a1§r][§a1§r][§a1§r]%1[§a1§r][§a1§r][§a1§r]%1[§a1§r][§a1§r][§a1§r]	### 给玩家的信息。注意“这不是制作食谱！”周围的颜色和格式代码，在“毒马铃薯块”周围，在“用它盖房子！”之后，在“毒马铃薯”的专有名词形式之后。
+jig_poip:info.part_07=§7Or...用有毒的马铃薯装饰一把木剑，用以下内容制作§r毒马铃薯木剑§7：%1%1§a1。毒马铃薯§r%1§62。木剑§r%1[ ][§a1§r]%1[§62§r][ ]%1§7这些美女的强度是无毒马铃薯的两倍，并且会对它们的目标造成致命的毒药！	### 给玩家的信息。在“或...装饰”之前，在“毒马铃薯动力木剑”之前，在“用以下内容”之后，在“毒马铃薯”之后，在“木剑”之后，在“这些美女”之前，请注意颜色和格式代码。
+jig_poip:info.part_08=§7你将如何保护自己免受其他玩家挥舞那些毒药武器的伤害？至少一块§r毒马铃薯盔甲§7会起作用！%1%1§a1。毒马铃薯§r%1[§a1§r][§a1§r][§a1§r]%1[§a1§r][ ][§a1§r]%1§7想知道如果你穿全套衣服会发生什么...	### 给玩家的信息。在“How will”之前，在“poisonous potato armor”之前，在“do the trick!”之后，在“Poisonous Potato”之后，在“Wonder what”之前，注意颜色和格式代码。
+jig_poip:info.part_09=§7好的，还有一个：一个§r毒马铃薯动力矿车§7！以超快的驾驶速度运行。%1%1§a1。毒马铃薯§r%1§72。《我的世界》 §r%1[ ][§a1§r][ ]%1[§a1§r][§72§r][§a1§r]%1[§a1§r][ ][§a1§r]	### 给玩家的信息。注意“Ok, one more”之前的颜色和格式代码，在“poisonous potato powered minecart”、“super fast speed”之后、“Poisonous Potato”之后和“Minecart”之后的颜色和格式代码。请注意，“坏男孩”是一个口语短语，意思是一个特殊项目。
+jig_poip:info.part_10=§l还有更多食谱可以发现！§r	### 给玩家的信息。注意“还有更多食谱要发现！”周围的颜色和格式代码。
+jig_poip:info.part_11=§a毒马铃薯§r插件 was created by §2Jigarbov Productions.§r%1%1@ us with pics of you enjoying your poisonous potatoes!或了解更多信息：§2youtube.com/jigarbov§r %1%1制作人：Jigarbov / Jujustyle / Bluehush / Feylina / HelenAngel	### 给玩家的信息。请注意，“Poisonous Potato Add-On”、“Jigarbov Productions”、“Jigarbov”、“Jujustyle”、“Bluehush”、“Feylina”和“HelenAngel”是专有名词。请注意“我们带图片”之前的“@”符号&“youtube.com/jigarbov”是一个URL。注意“Poisonous Potato”、“Jigarbov Productions”、“URL youtube.com/jigarbov”和“Made by:”之前的颜色和格式代码。
+
+action.hint.exit.jig_poip:poisonous_potato_minecart=按潜行或跳转下车	###给玩家的说明。
+action.hint.exit.jig_poip:poip_chair=按潜行或跳跃下车	###给玩家的说明。
+action.hint.exit.jig_poip:poip_couch=按潜行或跳跃下车	###给玩家的说明。
+action.hint.exit.jig_poip:poip_balloon=按潜行或跳跃以下车	###给玩家的说明。
+action.hint.exit.console.jig_poip:poisonous_potato_minecart=按潜行或跳跃 :_input_key.sneak: 以下车	###给玩家的说明。请注意，':_input_key.sneak:'是代码，不应该被翻译。
+action.hint.exit.console.jig_poip:poip_chair=按潜行或跳跃 :_input_key.sneak: 以下车	###给玩家的说明。请注意，':_input_key.sneak:'是代码，不应该被翻译。
+action.hint.exit.console.jig_poip:poip_couch=按潜行或跳跃 :_input_key.sneak: 以下车	###给玩家的说明。请注意，':_input_key.sneak:'是代码，不应该被翻译。
+action.hint.exit.console.jig_poip:poip_balloon=按潜行或跳跃 :_input_key.sneak: 以下车	###给玩家的说明。请注意，':_input_key.sneak:'是代码，不应该被翻译。
+action.hint.exit.scheme.jig_poip:poisonous_potato_minecart=按潜行或跳跃以下车	###给玩家的说明。
+action.hint.exit.scheme.jig_poip:poip_chair=按潜行或跳跃下车	###给玩家的说明。
+action.hint.exit.scheme.jig_poip:poip_couch=按潜行或跳跃下车	###给玩家的说明。
+action.hint.exit.scheme.jig_poip:poip_balloon=按潜行或跳跃下车	###给玩家的说明。
+
+item.spawn_egg.entity.jig_poip:poip_chair.name=毒马铃薯凳	### 项目名称。请注意，所有单词都以大写字母开头。
+item.spawn_egg.entity.jig_poip:poip_couch.name=毒马铃薯沙发	### 项目名称。请注意，所有单词都以大写字母开头。
+item.spawn_egg.entity.jig_poip:poip_balloon.name=毒马铃薯气球	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poip_chair_item=毒马铃薯椅	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poip_couch_item=毒马铃薯沙发	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poip_balloon_item=毒马铃薯气球	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poip_minecart_item=毒马铃薯矿车	### 项目名称。请注意，所有单词都以大写字母开头。
+entity.jig_poip:poip_chair.name=毒马铃薯椅	### 项目名称。请注意，所有单词都以大写字母开头。
+entity.jig_poip:poip_couch.name=毒马铃薯沙发	### 项目名称。请注意，所有单词都以大写字母开头。
+entity.jig_poip:poip_balloon.name=毒马铃薯气球	### 项目名称。请注意，所有单词都以大写字母开头。
+entity.jig_poip:poip_minecart.name=Poisonous Potato Powered Minecart	### 项目名称。请注意，所有单词都以大写字母开头。
+entity.jig_poip:poisonous_potato_explo.name=爆炸性毒马铃薯	### 项目名称。请注意，所有单词都以大写字母开头。
+entity.jig_poip:nub_explo_ammo.name=爆炸性有毒马铃薯块	### 项目名称。请注意，所有单词都以大写字母开头。
+entity.jig_poip:nub_ammo.name=Poisonous Potato Nubs	### 项目名称。请注意，所有单词都以大写字母开头。
+tile.jig_poip:poisonous_potato_block.name=毒马铃薯方块	### 项目名称。请注意，所有单词都以大写字母开头。
+tile.jig_poip:poisonous_potato_carpet.name=毒马铃薯地毯	### 项目名称。请注意，所有单词都以大写字母开头。
+tile.jig_poip:poisonous_potato_lamp.name=毒马铃薯灯	### 项目名称。请注意，所有单词都以大写字母开头。
+tile.jig_poip:poisonous_potato_table.name=毒马铃薯桌子	### 项目名称。请注意，所有单词都以大写字母开头。
+tile.jig_poip:poisonous_potato_hanging.name=Poisonous Potato Portrait Block	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poisonous_potato_helmet=毒马铃薯头盔	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poisonous_potato_armor=毒马铃薯胸甲	### 项目名称。请注意，所有单词都以大写字母开头。
+Item.jig_poip:poisonous_potato_legs=毒的马铃薯裤	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poisonous_potato_boots=毒马铃薯靴子	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poisonous_potato_explo=毒马铃薯炸弹	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poisonous_potato_hanging_item=毒马铃薯的画	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:nub_ammo=毒气弹	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:nub_explo_ammo=毒马铃薯小型炸弹	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poisonous_potato_stew=毒马铃薯迷之炖菜	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poisonous_potato_baked=烤毒马铃薯	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poisonous_potato_stew.name=毒马铃薯迷之炖菜	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poisonous_potato_baked.name=烤毒马铃薯	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poisonous_potato_wooden_sword=毒马铃薯木剑	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poisonous_potato_stone_sword=毒马铃薯石剑	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poisonous_potato_golden_sword=毒马铃薯金剑	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poisonous_potato_iron_sword=毒马铃薯铁剑	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poisonous_potato_diamond_sword=毒马铃薯钻石剑	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poisonous_potato_netherite_sword=毒马铃薯下界合金剑	### 项目名称。请注意，所有单词都以大写字母开头。
+item.jig_poip:poip_mob_small_item=毒马铃薯傀儡	### 项目名称。请注意，这是突变马铃薯的自定义词。
+entity.jig_poip:mutato.name=毒马铃薯傀儡	### 项目名称。请注意，这是突变马铃薯的自定义词。
+entity.jig_poip:poisonous_potato_minecart.name=Poisonous Potato Powered Minecart	### 项目名称。请注意，所有单词都以大写字母开头。

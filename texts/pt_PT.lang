@@ -1,0 +1,88 @@
+## Jigarbov Productions Inc. made this pack, langfile, and the included map.
+## Copyright Jigarbov Productions Inc. 2024
+
+pack.name=Complemento de Batata Venenosa	### 'Poisonous Potato RP' is the proper name of the Add-On and should be in all capitals.
+pack.description=Todos os recursos que você precisa para o Complemento de Batata Venenosa da Jigarbov Productions.	### Information to the player about the pack.
+
+jig_poip:guide_exit=Fechar	### Button name.
+jig_poip:guide.name=Guia da Batata Venenosa	### Item name. Note that "Poisonous Potato" is a proper noun.
+item.jig_poip:guide_book=Guia de Batata Venenosa	### Item name. Note that "Poisonous Potato" is a proper noun.
+jig_poip:tooltip.modify=Modificar	### Button name.
+item.jig_common:wrench=Chave Inglesa	### Button name.
+jig_poip:exploding_nub=Protuberâncias de Batatas Venenosas Explosivas Arremessadas	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:normal_nub=Protuberâncias de Batatas Venenosas Arremessadas	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:exploding_poip=Batatas Venenosas Explosivas Explodidas	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:balloon_pop=Balões de Batata Venenosa Estouradas	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:furniture=Móveis de Batata Venenosa Invocados	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:furniture_mod=Móveis de Batata Venenosa modificados com uma chave inglesa	### Information to the player. Note that "Poisonous Potato" is a proper noun. 
+jig_poip:jig_computer.addon_stats=Estatísticas de Batata Venenosa	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:credits.for.computers=Complemento Batata Venenosa da Jigarbov Productions.	### Information to the player. Note that "Poisonous Potato Add-On" and "Jigarbov Productions" are proper nouns. 
+
+jig_poip:installed_msg=§l§aBatata Venenosa§r está instalado.	###  Information to the player. Note that "Poisonous Potato Add-On" is a proper noun. Note the color codes around "Poisonous Potato".
+jig_poip:info_msg.b=Você recebeu um livro com algumas instruções básicas. Saiba mais em: §cyoutube.com/jigarbov	### Information to the player. Note that "youtube.com/jigarbov" is a URL & the color code before the URL.
+
+jig_poip:info.part_01=Complemento§l§aBatata Venenosa§r%1§2Por Jigarbov Productions	### Information to the player. Note that "Poisonous Potato Add-On" and "Jigarbov Productions" are proper nouns. Note the color & formatting codes around "Poisonous Potato".
+jig_poip:info.part_02=§lO que é o Complemento Batata Venenosa?§r§7%1Batata Venenosa é um complemento que dá à batata venenosa o amor e o respeito que ela merece!	### Information to the player. Note that "Poisonous Potato" and "Add-On" are proper nouns. Note the color codes around "What is the Poisonous Potato Add-On?".
+jig_poip:info.part_03=§lO que há nele?§r§7%1Móveis, armas, comida, blocos, receitas e muito mais do que simplesmente arremessar uma batata venenosa. Cultive uma, coloque-a em uma bancada e comece a criar.	### Information to the player. Note the color & formatting codes around "What's in it?".
+jig_poip:info.part_04=§lEu nem sei como conseguir uma batata venenosa!§r§7%1Aqui está o que você precisa fazer. Use uma enxada em um pouco de terra. Certifique-se que há um pouco de água por perto. Plante uma batata. Quando estiver totalmente crescida, você poderá colhê-la e terá uma chance rara de ter uma batata venenosa!	### Information to the player. Note the color & formatting codes around "I don't even know how to get a poisonous potato though!".
+jig_poip:info.part_05=§lVocê pode me dar ao menos uma receita de criação?§r§7%1Claro! Que tal uma batata venenosa assada? Basta jogar uma batata venenosa na fornalha e vê-la cozinhar. DELÍCIA!	### Information to the player. Note the color & formatting codes around "Can you at least give me one crafting recipe?".
+jig_poip:info.part_06=§lMas essa não é uma receita de criação!§r§7%1Tem razão. Aqui está a receita de §rbloco de batata venenosa§7 para armazenar suas batatas venenosas... ou construir uma casa com elas!%1%1§a1. Batata Venenosa §r%1[§a1§r][§a1§r][§a1§r]%1[§a1§r][§a1§r][§a1§r]%1[§a1§r][§a1§r][§a1§r]	### Information to the player. Note the color & formatting codes around "That isn't a crafting recipe!", around "poisonous potato block", after "build a house with it!", and after the proper noun form of "Poisonous Potato".
+jig_poip:info.part_07=§7Ou... decore uma espada de madeira com uma batata venenosa para criar a §respada de madeira fortalecida por batata venenosa§7 com os seguintes itens:%1%1§a1. Batata Venenosa §r%1§62. Espada de Madeira §r%1[ ][§a1§r]%1[§62§r][ ]%1§7Essas belezuras são duas vezes mais fortes que suas equivalentes não venenosas, além de infligir um veneno mortal em seus alvos!	### Information to the player. Note the color & formatting codes before "Or... adorn", around "poisonous potato powered wooden sword", after "with the following:", after "Poisonous Potato", after "Wooden Sword", & before "These beauties".
+jig_poip:info.part_08=§7Como você se protegerá de outros jogadores que usam essas armas venenosas? Saiba que ao menos uma parte de §rarmadura de batata venenosa§7 resolverá o problema!%1%1§a1. Batata Venenosa §r%1[§a1§r][§a1§r][§a1§r]%1[§a1§r][ ][§a1§r]%1§7Eu me pergunto o que acontece se você usar o conjunto completo...	### Information to the player. Note the color & formatting codes before "How will", around "poisonous potato armor", after "do the trick!", after "Poisonous Potato", and before "Wonder what".
+jig_poip:info.part_09=§7Certo, mais um: um §rcarrinho de minas movido a batata venenosa§7! Dirija esse monstrão na sua base em alta velocidade. %1%1§a1. Batata Venenosa §r%1§72. Carrinho de Minas §r%1[ ][§a1§r][ ]%1[§a1§r][§72§r][§a1§r]%1[§a1§r][ ][§a1§r]	### Information to the player. Note the color & formatting codes before "Ok, one more", around "poisonous potato powered minecart", after "super fast speed", after "Poisonous Potato", & after "Minecart". Note that "bad boy" is a colloquial phrase meaning a special item.
+jig_poip:info.part_10=§lHá muito mais receitas para descobrir!§r	### Information to the player. Note the color & formatting codes around "There are many more recipes to discover!".
+jig_poip:info.part_11=§aBatata Venenosa§r Complemento criado por §2Jigarbov Productions.§r%1%1Mande fotos de você saboreando suas batatas venenosas! Ou saiba mais em: §2youtube.com/jigarbov§r %1%1Feito por: Jigarbov / Jujustyle / Bluehush / Feylina / HelenAngel	### Information to the player. Note that "Poisonous Potato Add-On", "Jigarbov Productions", "Jigarbov", "Jujustyle", "Bluehush", "Feylina", & "HelenAngel" are proper nouns. Note the "@" symbol before "us with pics" & that "youtube.com/jigarbov" is a URL. Note the color & formatting codes around "Poisonous Potato", around "Jigarbov Productions", around the URL youtube.com/jigarbov", & before "Made by:".
+
+action.hint.exit.jig_poip:poisonous_potato_minecart=Pressione agachar ou pular para desmontar	### Instructions given to the player.
+action.hint.exit.jig_poip:poip_chair=Pressione agachar ou pular para desmontar	### Instructions given to the player.
+action.hint.exit.jig_poip:poip_couch=Pressione agachar ou pular para desmontar	### Instructions given to the player.
+action.hint.exit.jig_poip:poip_balloon=Pressione agachar ou pular para desmontar	### Instructions given to the player.
+action.hint.exit.console.jig_poip:poisonous_potato_minecart=Pressione :_input_key.sneak: para descer.	### Instructions given to the player. Note that ':_input_key.sneak:' is code & should not be translated.
+action.hint.exit.console.jig_poip:poip_chair=Pressione :_input_key.sneak: para descer.	### Instructions given to the player. Note that ':_input_key.sneak:' is code & should not be translated.
+action.hint.exit.console.jig_poip:poip_couch=Pressione :_input_key.sneak: para descer.	### Instructions given to the player. Note that ':_input_key.sneak:' is code & should not be translated.
+action.hint.exit.console.jig_poip:poip_balloon=Pressione :_input_key.sneak: para descer.	### Instructions given to the player. Note that ':_input_key.sneak:' is code & should not be translated.
+action.hint.exit.scheme.jig_poip:poisonous_potato_minecart=Pressione agachar ou pular para desmontar	### Instructions given to the player.
+action.hint.exit.scheme.jig_poip:poip_chair=Pressione agachar ou pular para desmontar	### Instructions given to the player.
+action.hint.exit.scheme.jig_poip:poip_couch=Pressione agachar ou pular para desmontar	### Instructions given to the player.
+action.hint.exit.scheme.jig_poip:poip_balloon=Pressione agachar ou pular para desmontar	### Instructions given to the player.
+
+item.spawn_egg.entity.jig_poip:poip_chair.name=Banqueta de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.spawn_egg.entity.jig_poip:poip_couch.name=Sofá de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.spawn_egg.entity.jig_poip:poip_balloon.name=Balão de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_chair_item=Cadeira de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_couch_item=Sofá de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_balloon_item=Balão de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_minecart_item=Carrinho de Minas Movido por Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poip_chair.name=Cadeira de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poip_couch.name=Sofá de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poip_balloon.name=Balão de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poip_minecart.name=Carrinho de Minas Movido por Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poisonous_potato_explo.name=Batata Venenosa Explosiva	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:nub_explo_ammo.name=Protuberâncias de Batatas Venenosas Explosivas	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:nub_ammo.name=Batatinha Venenosa	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_block.name=Bloco de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_carpet.name=Carpete de Batata Venenoso	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_lamp.name=Lâmpada de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_table.name=Mesa de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_hanging.name=Bloco de Quadro de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_helmet=Capacete de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_armor=Armadura de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_legs=Leggings de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_boots=Botas de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_explo=Batata Venenosa Explosiva	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_hanging_item=Quadro de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:nub_ammo=Protuberâncias de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:nub_explo_ammo=Protuberâncias de Batatas Venenosas Explosivas	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_stew=Ensopado de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_baked=Batata Venenosa Assada	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_stew.name=Ensopado de Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_baked.name=Batata Venenosa Assada	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_wooden_sword=Espada de Madeira Fortalecida por Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_stone_sword=Espada de Pedra Fortalecida por Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_golden_sword=Espada Dourada Movida a Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_iron_sword=Espada de Ferro Fortalecida por Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_diamond_sword=Espada de Madeira Fortalecida por Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_netherite_sword=Espada de Netherita Fortalecida por Batata Venenosa	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_mob_small_item=Modificado	### Item name. Note that this is a custom word for a mutated potato.
+entity.jig_poip:mutato.name=Modificado	### Item name. Note that this is a custom word for a mutated potato.
+entity.jig_poip:poisonous_potato_minecart.name=Carrinho de Minas Movido por Batata Venenosa	### Item name. Note that all words begin with a capital letter.

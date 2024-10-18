@@ -1,0 +1,88 @@
+## Jigarbov Productions Inc. made this pack, langfile, and the included map.
+## Copyright Jigarbov Productions Inc. 2024
+
+pack.name=Giftige Kartoffel-Add-On	### 'Poisonous Potato RP' is the proper name of the Add-On and should be in all capitals.
+pack.description=Alle Ressourcen, die man für das Giftige-Kartoffel-Add-On von Jigarbov Productions benötigt.	### Information to the player about the pack.
+
+jig_poip:guide_exit=Schließen	### Button name.
+jig_poip:guide.name=Leitfaden für giftige Kartoffeln	### Item name. Note that "Poisonous Potato" is a proper noun.
+item.jig_poip:guide_book=Leitfaden für giftige Kartoffeln	### Item name. Note that "Poisonous Potato" is a proper noun.
+jig_poip:tooltip.modify=Ändern	### Button name.
+item.jig_common:wrench=Schraubenschlüssel	### Button name.
+jig_poip:exploding_nub=Explosive giftige Kartoffelstücke geworfen	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:normal_nub=Giftige Kartoffelstücke geworfen	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:exploding_poip=Explosive giftige Kartoffeln explodiert	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:balloon_pop=Giftige Kartoffelballons geplatzt	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:furniture=Giftige Kartoffelmöbel gespawnt	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:furniture_mod=Giftige Kartoffelmöbel mit einem Schraubenschlüssel modifiziert	### Information to the player. Note that "Poisonous Potato" is a proper noun. 
+jig_poip:jig_computer.addon_stats=Statistiken zu giftigen Kartoffeln	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:credits.for.computers=Giftige Kartoffel-Add-On von Jigarbov Productions.	### Information to the player. Note that "Poisonous Potato Add-On" and "Jigarbov Productions" are proper nouns. 
+
+jig_poip:installed_msg=§l§aGiftige Kartoffel§r (Add-On) ist installiert.	###  Information to the player. Note that "Poisonous Potato Add-On" is a proper noun. Note the color codes around "Poisonous Potato".
+jig_poip:info_msg.b=Du hast ein Buch mit einigen grundlegenden Anweisungen erhalten. Erfahre hier mehr: §cyoutube.com/jigarbov	### Information to the player. Note that "youtube.com/jigarbov" is a URL & the color code before the URL.
+
+jig_poip:info.part_01=§l§aGiftige Kartoffel§r%1§2(Add-On) von Jigarbov Productions	### Information to the player. Note that "Poisonous Potato Add-On" and "Jigarbov Productions" are proper nouns. Note the color & formatting codes around "Poisonous Potato".
+jig_poip:info.part_02=§lWas ist das Add-On: Giftige Kartoffel?§r§7%1Giftige Kartoffel ist ein Add-On, das der giftigen Kartoffel die Liebe und den Respekt gibt, die sie verdient!	### Information to the player. Note that "Poisonous Potato" and "Add-On" are proper nouns. Note the color codes around "What is the Poisonous Potato Add-On?".
+jig_poip:info.part_03=§lWas ist drin?§r§7%1Möbel, Waffen, Nahrung, Blöcke und mehr giftige Kartoffelrezepte, die weiter reichen, als du eine giftige Kartoffel werfen kannst. Züchte eine, lege sie dann auf eine Werkbank und das Handwerk kann beginnen.	### Information to the player. Note the color & formatting codes around "What's in it?".
+jig_poip:info.part_04=§lIch weiß nicht einmal, wie man überhaupt an eine giftige Kartoffel kommt!§r§7%1Mach Folgendes: Benutze eine Hacke auf etwas Erde. Stell sicher, dass etwas Wasser in der Nähe ist. Pflanze eine Kartoffel. Wenn sie ausgewachsen ist, kannst du sie ernten und du hast die seltene Chance, eine giftige Kartoffel zu ernten!	### Information to the player. Note the color & formatting codes around "I don't even know how to get a poisonous potato though!".
+jig_poip:info.part_05=§lKönntest du mir wenigstens ein Handwerksrezept geben?§r§7%1Na klar! Wie wäre es mit einer giftigen Backkartoffel? Pack einfach eine giftige Kartoffel in einen Ofen und schau zu, wie sie gebacken wird. LECKER!	### Information to the player. Note the color & formatting codes around "Can you at least give me one crafting recipe?".
+jig_poip:info.part_06=§lDas ist kein Handwerksrezept!§r§7%1Da hast du recht. Hier ist ein Handwerksrezept für einen §rgiftigen Kartoffel-Block§7. Damit kannst du deine giftigen Kartoffeln ... aufbewahren oder ein Haus daraus bauen!%1%1§a1. Giftige Kartoffel §r%1[§a1§r][§a1§r][§a1§r]%1[§a1§r][§a1§r][§a1§r]%1[§a1§r][§a1§r][§a1§r]	### Information to the player. Note the color & formatting codes around "That isn't a crafting recipe!", around "poisonous potato block", after "build a house with it!", and after the proper noun form of "Poisonous Potato".
+jig_poip:info.part_07=§7Oder garniere ein Holzschwert mit einer giftigen Kartoffel, um das §rHolzschwert mit giftigem Kartoffelantrieb§7 mit folgenden Zutaten herzustellen:%1%1§a1. Giftige Kartoffel §r%1§62. Holzschwert §r%1[ ][§a1§r]%1[§62§r][ ]%1§7Diese Schönheiten sind doppelt so stark wie ihre ungiftigen Kartoffel-Gegenstücke und vergiften das Ziel mit tödlichem Gift!	### Information to the player. Note the color & formatting codes before "Or... adorn", around "poisonous potato powered wooden sword", after "with the following:", after "Poisonous Potato", after "Wooden Sword", & before "These beauties".
+jig_poip:info.part_08=§7Wie wirst du dich vor anderen Spielern schützen, die mit diesen Giftwaffen hantieren? Mindestens eine §rgiftige Kartoffelrüstung§7 reicht aus!%1%1§a1. Giftige Kartoffel §r%1[§a1§r][§a1§r][§a1§r]%1[§a1§r][ ][§a1§r]%1§7Was wohl passiert, wenn man den kompletten Satz trägt ...	### Information to the player. Note the color & formatting codes before "How will", around "poisonous potato armor", after "do the trick!", after "Poisonous Potato", and before "Wonder what".
+jig_poip:info.part_09=§7Ok, noch eins: eine §rLore mit giftigem Kartoffelantrieb§7! Fahr mit diesem tollen Schlitten superschnell durch deine Basis. %1%1§a1. Giftige Kartoffel §r%1§72. Lore §r%1[ ][§a1§r][ ]%1[§a1§r][§72§r][§a1§r]%1[§a1§r][ ][§a1§r]	### Information to the player. Note the color & formatting codes before "Ok, one more", around "poisonous potato powered minecart", after "super fast speed", after "Poisonous Potato", & after "Minecart". Note that "bad boy" is a colloquial phrase meaning a special item.
+jig_poip:info.part_10=§lEs gibt noch viele weitere Rezepte zu entdecken!§r	### Information to the player. Note the color & formatting codes around "There are many more recipes to discover!".
+jig_poip:info.part_11=§aGiftige Kartoffel§r (Add-On) wurde erstellt von §2Jigarbov Productions.§r%1%1@-markiere uns mit Bildern, auf denen du deine giftigen Kartoffeln genießt! Oder erfahre mehr unter: §2youtube.com/jigarbov§r %1%1Hergestellt von: Jigarbov / Jujustyle / Bluehush / Feylina / HelenAngel	### Information to the player. Note that "Poisonous Potato Add-On", "Jigarbov Productions", "Jigarbov", "Jujustyle", "Bluehush", "Feylina", & "HelenAngel" are proper nouns. Note the "@" symbol before "us with pics" & that "youtube.com/jigarbov" is a URL. Note the color & formatting codes around "Poisonous Potato", around "Jigarbov Productions", around the URL youtube.com/jigarbov", & before "Made by:".
+
+action.hint.exit.jig_poip:poisonous_potato_minecart=Drücke "Schleichen" oder "Springen", um abzusteigen	### Instructions given to the player.
+action.hint.exit.jig_poip:poip_chair=Drücke "Schleichen" oder "Springen", um abzusteigen	### Instructions given to the player.
+action.hint.exit.jig_poip:poip_couch=Drücke "Schleichen" oder "Springen", um abzusteigen	### Instructions given to the player.
+action.hint.exit.jig_poip:poip_balloon=Drücke "Schleichen" oder "Springen", um abzusteigen	### Instructions given to the player.
+action.hint.exit.console.jig_poip:poisonous_potato_minecart=Drücke :_input_key.sneak:, um abzusteigen	### Instructions given to the player. Note that ':_input_key.sneak:' is code & should not be translated.
+action.hint.exit.console.jig_poip:poip_chair=Drücke :_input_key.sneak:, um abzusteigen	### Instructions given to the player. Note that ':_input_key.sneak:' is code & should not be translated.
+action.hint.exit.console.jig_poip:poip_couch=Drücke :_input_key.sneak:, um abzusteigen	### Instructions given to the player. Note that ':_input_key.sneak:' is code & should not be translated.
+action.hint.exit.console.jig_poip:poip_balloon=Drücke :_input_key.sneak:, um abzusteigen	### Instructions given to the player. Note that ':_input_key.sneak:' is code & should not be translated.
+action.hint.exit.scheme.jig_poip:poisonous_potato_minecart=Drücke "Schleichen" oder "Springen", um abzusteigen	### Instructions given to the player.
+action.hint.exit.scheme.jig_poip:poip_chair=Drücke "Schleichen" oder "Springen", um abzusteigen	### Instructions given to the player.
+action.hint.exit.scheme.jig_poip:poip_couch=Drücke "Schleichen" oder "Springen", um abzusteigen	### Instructions given to the player.
+action.hint.exit.scheme.jig_poip:poip_balloon=Drücke "Schleichen" oder "Springen", um abzusteigen	### Instructions given to the player.
+
+item.spawn_egg.entity.jig_poip:poip_chair.name=Giftiger Kartoffelhocker	### Item name. Note that all words begin with a capital letter.
+item.spawn_egg.entity.jig_poip:poip_couch.name=Giftiges Kartoffelsofa	### Item name. Note that all words begin with a capital letter.
+item.spawn_egg.entity.jig_poip:poip_balloon.name=Giftiger Kartoffelballon	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_chair_item=Giftiger Kartoffelstuhl	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_couch_item=Giftige Kartoffelcouch	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_balloon_item=Giftiger Kartoffelballon	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_minecart_item=Lore mit giftigem Kartoffelantrieb	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poip_chair.name=Giftiger Kartoffelstuhl	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poip_couch.name=Giftige Kartoffelcouch	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poip_balloon.name=Giftiger Kartoffelballon	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poip_minecart.name=Lore mit giftigem Kartoffelantrieb	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poisonous_potato_explo.name=Explosive giftige Kartoffel	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:nub_explo_ammo.name=Explosive giftige Kartoffelstücke	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:nub_ammo.name=Giftige Kartoffelstücke	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_block.name=Giftiger Kartoffel-Block	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_carpet.name=Giftiger Kartoffelteppich	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_lamp.name=Giftige Kartoffellampe	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_table.name=Giftiger Kartoffeltisch	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_hanging.name=Giftiger Kartoffelporträt-Block	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_helmet=Giftiger Kartoffelhelm	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_armor=Giftige Kartoffelrüstung	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_legs=Giftige Kartoffelleggings	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_boots=Giftige Kartoffelstiefel	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_explo=Explosive giftige Kartoffel	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_hanging_item=Giftiges Kartoffelporträt	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:nub_ammo=Giftige Kartoffelstücke	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:nub_explo_ammo=Explosive giftige Kartoffelstücke	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_stew=Giftiger Kartoffeleintopf	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_baked=Giftige Backkartoffel	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_stew.name=Giftiger Kartoffeleintopf	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_baked.name=Giftige Backkartoffel	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_wooden_sword=Holzschwert mit giftigem Kartoffelantrieb	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_stone_sword=Steinschwert mit giftigem Kartoffelantrieb	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_golden_sword=Goldschwert mit giftigem Kartoffelantrieb	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_iron_sword=Eisenschwert mit giftigem Kartoffelantrieb	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_diamond_sword=Diamantschwert mit giftigem Kartoffelantrieb	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_netherite_sword=Netherit-Schwert mit giftigem Kartoffelantrieb	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_mob_small_item=Mutoffel	### Item name. Note that this is a custom word for a mutated potato.
+entity.jig_poip:mutato.name=Mutoffel	### Item name. Note that this is a custom word for a mutated potato.
+entity.jig_poip:poisonous_potato_minecart.name=Lore mit giftigem Kartoffelantrieb	### Item name. Note that all words begin with a capital letter.

@@ -1,0 +1,88 @@
+## Jigarbov Productions Inc. made this pack, langfile, and the included map.
+## Copyright Jigarbov Productions Inc. 2024
+
+pack.name=Poisonous Potato Add-On	### 'Poisonous Potato RP' is the proper name of the Add-On and should be in all capitals.
+pack.description=All the resources you need for Poisonous Potato Add-On by Jigarbov Productions.	### Information to the player about the pack.
+
+jig_poip:guide_exit=Close	### Button name.
+jig_poip:guide.name=Poisonous Potato Guide	### Item name. Note that "Poisonous Potato" is a proper noun.
+item.jig_poip:guide_book=Poisonous Potato Guide	### Item name. Note that "Poisonous Potato" is a proper noun.
+jig_poip:tooltip.modify=Modify	### Button name.
+item.jig_common:wrench=Wrench	### Button name.
+jig_poip:exploding_nub=Explosive Poisonous Potato Nubs Thrown	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:normal_nub=Poisonous Potato Nubs Thrown	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:exploding_poip=Explosive Poisonous Potatoes Exploded	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:balloon_pop=Poisonous Potato Balloons Popped	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:furniture=Poisonous Potato Furniture Spawned	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:furniture_mod=Poisonous Potato furniture modified with a wrench	### Information to the player. Note that "Poisonous Potato" is a proper noun. 
+jig_poip:jig_computer.addon_stats=Poisonous Potato Stats	### Information to the player. Note that "Poisonous Potato" is a proper noun. Note that each word starts with a capital letter.
+jig_poip:credits.for.computers=Poisonous Potato Add-On by Jigarbov Productions.	### Information to the player. Note that "Poisonous Potato Add-On" and "Jigarbov Productions" are proper nouns. 
+
+jig_poip:installed_msg=§l§aPoisonous Potato§r Add-On is installed.	###  Information to the player. Note that "Poisonous Potato Add-On" is a proper noun. Note the color codes around "Poisonous Potato".
+jig_poip:info_msg.b=You have been given a book with some basic instructions. Learn more: §cyoutube.com/jigarbov	### Information to the player. Note that "youtube.com/jigarbov" is a URL & the color code before the URL.
+
+jig_poip:info.part_01=§l§aPoisonous Potato§r%1§2Add-On By Jigarbov Productions	### Information to the player. Note that "Poisonous Potato Add-On" and "Jigarbov Productions" are proper nouns. Note the color & formatting codes around "Poisonous Potato".
+jig_poip:info.part_02=§lWhat is the Poisonous Potato Add-On?§r§7%1Poisonous Potato is an Add-On that gives the poisonous potato the love & respect it deserves!	### Information to the player. Note that "Poisonous Potato" and "Add-On" are proper nouns. Note the color codes around "What is the Poisonous Potato Add-On?".
+jig_poip:info.part_03=§lWhat's in it?§r§7%1Furniture, weapons, food, blocks, and more poisonous potato recipes than you can throw a poison potato at. Grow one, then put it in a crafting table and get crafting.	### Information to the player. Note the color & formatting codes around "What's in it?".
+jig_poip:info.part_04=§lI don't even know how to get a poisonous potato though!§r§7%1Here's what you do. Use a hoe on some dirt. Make sure you have some water nearby. Plant a potato. When it's fully grown you can harvest it and you have a rare chance of harvesting a poisonous potato!	### Information to the player. Note the color & formatting codes around "I don't even know how to get a poisonous potato though!".
+jig_poip:info.part_05=§lCan you at least give me one crafting recipe?§r§7%1Sure! How about a baked poisonous potato? Just throw a poisonous potato into a furnace and watch it cook. YUM!	### Information to the player. Note the color & formatting codes around "Can you at least give me one crafting recipe?".
+jig_poip:info.part_06=§lThat isn't a crafting recipe!§r§7%1You're right. Here's a §rpoisonous potato block§7 recipe to store your poisonous potatoes... or build a house with it!%1%1§a1. Poisonous Potato §r%1[§a1§r][§a1§r][§a1§r]%1[§a1§r][§a1§r][§a1§r]%1[§a1§r][§a1§r][§a1§r]	### Information to the player. Note the color & formatting codes around "That isn't a crafting recipe!", around "poisonous potato block", after "build a house with it!", and after the proper noun form of "Poisonous Potato".
+jig_poip:info.part_07=§7Or... adorn a wooden sword with a poisonous potato to create the §rpoisonous potato powered wooden sword§7 with the following:%1%1§a1. Poisonous Potato §r%1§62. Wooden Sword §r%1[ ][§a1§r]%1[§62§r][ ]%1§7These beauties are twice as strong as their non poisonous potato counterparts as well as inflict a deadly poison on their targets!	### Information to the player. Note the color & formatting codes before "Or... adorn", around "poisonous potato powered wooden sword", after "with the following:", after "Poisonous Potato", after "Wooden Sword", & before "These beauties".
+jig_poip:info.part_08=§7How will you protect yourself from other players wielding those poison inflicting weapons? At least one piece of §rpoisonous potato armor§7 will do the trick!%1%1§a1. Poisonous Potato §r%1[§a1§r][§a1§r][§a1§r]%1[§a1§r][ ][§a1§r]%1§7Wonder what happens if you wear the full set...	### Information to the player. Note the color & formatting codes before "How will", around "poisonous potato armor", after "do the trick!", after "Poisonous Potato", and before "Wonder what".
+jig_poip:info.part_09=§7Ok, one more: a §rpoisonous potato powered minecart§7! Drive this bad boy around your base at a super fast speed. %1%1§a1. Poisonous Potato §r%1§72. Minecart §r%1[ ][§a1§r][ ]%1[§a1§r][§72§r][§a1§r]%1[§a1§r][ ][§a1§r]	### Information to the player. Note the color & formatting codes before "Ok, one more", around "poisonous potato powered minecart", after "super fast speed", after "Poisonous Potato", & after "Minecart". Note that "bad boy" is a colloquial phrase meaning a special item.
+jig_poip:info.part_10=§lThere are many more recipes to discover!§r	### Information to the player. Note the color & formatting codes around "There are many more recipes to discover!".
+jig_poip:info.part_11=§aPoisonous Potato§r Add-On was created by §2Jigarbov Productions.§r%1%1@ us with pics of you enjoying your poisonous potatoes! Or learn more at: §2youtube.com/jigarbov§r %1%1Made by: Jigarbov / Jujustyle / Bluehush / Feylina / HelenAngel	### Information to the player. Note that "Poisonous Potato Add-On", "Jigarbov Productions", "Jigarbov", "Jujustyle", "Bluehush", "Feylina", & "HelenAngel" are proper nouns. Note the "@" symbol before "us with pics" & that "youtube.com/jigarbov" is a URL. Note the color & formatting codes around "Poisonous Potato", around "Jigarbov Productions", around the URL youtube.com/jigarbov", & before "Made by:".
+
+action.hint.exit.jig_poip:poisonous_potato_minecart=Press sneak or jump to dismount	### Instructions given to the player.
+action.hint.exit.jig_poip:poip_chair=Press sneak or jump to dismount	### Instructions given to the player.
+action.hint.exit.jig_poip:poip_couch=Press sneak or jump to dismount	### Instructions given to the player.
+action.hint.exit.jig_poip:poip_balloon=Press sneak or jump to dismount	### Instructions given to the player.
+action.hint.exit.console.jig_poip:poisonous_potato_minecart=Press :_input_key.sneak: to dismount	### Instructions given to the player. Note that ':_input_key.sneak:' is code & should not be translated.
+action.hint.exit.console.jig_poip:poip_chair=Press :_input_key.sneak: to dismount	### Instructions given to the player. Note that ':_input_key.sneak:' is code & should not be translated.
+action.hint.exit.console.jig_poip:poip_couch=Press :_input_key.sneak: to dismount	### Instructions given to the player. Note that ':_input_key.sneak:' is code & should not be translated.
+action.hint.exit.console.jig_poip:poip_balloon=Press :_input_key.sneak: to dismount	### Instructions given to the player. Note that ':_input_key.sneak:' is code & should not be translated.
+action.hint.exit.scheme.jig_poip:poisonous_potato_minecart=Press sneak or jump to dismount	### Instructions given to the player.
+action.hint.exit.scheme.jig_poip:poip_chair=Press sneak or jump to dismount	### Instructions given to the player.
+action.hint.exit.scheme.jig_poip:poip_couch=Press sneak or jump to dismount	### Instructions given to the player.
+action.hint.exit.scheme.jig_poip:poip_balloon=Press sneak or jump to dismount	### Instructions given to the player.
+
+item.spawn_egg.entity.jig_poip:poip_chair.name=Poisonous Potato Stool	### Item name. Note that all words begin with a capital letter.
+item.spawn_egg.entity.jig_poip:poip_couch.name=Poisonous Potato Sofa	### Item name. Note that all words begin with a capital letter.
+item.spawn_egg.entity.jig_poip:poip_balloon.name=Poisonous Potato Balloon	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_chair_item=Poisonous Potato Chair	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_couch_item=Poisonous Potato Couch	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_balloon_item=Poisonous Potato Balloon	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_minecart_item=Poisonous Potato Powered Minecart	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poip_chair.name=Poisonous Potato Chair	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poip_couch.name=Poisonous Potato Couch	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poip_balloon.name=Poisonous Potato Balloon	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poip_minecart.name=Poisonous Potato Powered Minecart	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:poisonous_potato_explo.name=Explosive Poisonous Potato	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:nub_explo_ammo.name=Explosive Poisonous Potato Nubs	### Item name. Note that all words begin with a capital letter.
+entity.jig_poip:nub_ammo.name=Poisonous Potato Nubs	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_block.name=Poisonous Potato Block	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_carpet.name=Poisonous Potato Carpet	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_lamp.name=Poisonous Potato Lamp	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_table.name=Poisonous Potato Table	### Item name. Note that all words begin with a capital letter.
+tile.jig_poip:poisonous_potato_hanging.name=Poisonous Potato Portrait Block	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_helmet=Poisonous Potato Helmet	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_armor=Poisonous Potato Armor	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_legs=Poisonous Potato Leggings	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_boots=Poisonous Potato Boots	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_explo=Explosive Poisonous Potato	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_hanging_item=Poisonous Potato Portrait	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:nub_ammo=Poisonous Potato Nubs	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:nub_explo_ammo=Explosive Poisonous Potato Nubs	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_stew=Poisonous Potato Stew	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_baked=Baked Poisonous Potato	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_stew.name=Poisonous Potato Stew	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_baked.name=Baked Poisonous Potato	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_wooden_sword=Poisonous Potato Powered Wooden Sword	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_stone_sword=Poisonous Potato Powered Stone Sword	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_golden_sword=Poisonous Potato Powered Golden Sword	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_iron_sword=Poisonous Potato Powered Iron Sword	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_diamond_sword=Poisonous Potato Powered Diamond Sword	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poisonous_potato_netherite_sword=Poisonous Potato Powered Netherite Sword	### Item name. Note that all words begin with a capital letter.
+item.jig_poip:poip_mob_small_item=Mutato	### Item name. Note that this is a custom word for a mutated potato.
+entity.jig_poip:mutato.name=Mutato	### Item name. Note that this is a custom word for a mutated potato.
+entity.jig_poip:poisonous_potato_minecart.name=Poisonous Potato Powered Minecart	### Item name. Note that all words begin with a capital letter.
